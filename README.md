@@ -1,2 +1,6 @@
 # latam-plt-deploys-metrics-collector-api
-platform-engineering / standard / latam
+
+Team: **platform-engineering**  
+Tier: **standard**  
+Region: **latam**  
+Synthetic demo repo for the Domo governance platform.
